@@ -1,0 +1,6 @@
+name: the_tyranny_of_the_rocket_equation
+description: https://adventofcode.com/2019/day/1
+author: moe <moe9999@protonmail.com>
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
