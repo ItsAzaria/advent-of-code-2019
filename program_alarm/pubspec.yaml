@@ -1,0 +1,10 @@
+name: program_alarm
+description: 1202 Program Alarm
+author: moe <moe9999@protonmail.com>
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+
+#dependencies:
+#  path: ^1.6.0
+
